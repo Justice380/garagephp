@@ -1,0 +1,32 @@
+Christian LOHEZ - Formateur referent DWWM
+
+garage/
+├── config/
+│   ├── Database.php      // Gère la connexion à la base de données (Singleton)
+│   └── config.php        // (Optionnel) Pourrait contenir d'autres constantes de configuration
+├── models/
+│   ├── Car.php           // Modèle pour la table 'cars' (logique métier des véhicules)
+│   └── User.php          // Modèle pour la table 'users' (logique métier des utilisateurs)
+├── views/
+│   ├── layout.php        // Template principal (header, footer, etc.)
+│   ├── auth/
+│   │   ├── login.php     // Vue du formulaire de connexion
+│   │   └── register.php  // Vue du formulaire d'inscription
+│   ├── admin/
+│   │   └── dashboard.php // Vue du tableau de bord de l'administrateur
+│   └── cars/
+│       ├── index.php     // Vue de la liste de tous les véhicules
+│       ├── create.php    // Vue du formulaire de création de véhicule
+│       ├── edit.php      // Vue du formulaire de modification de véhicule
+│       └── show.php      // Vue des détails d'un seul véhicule
+├── controllers/
+│   ├── CarController.php   // Contrôleur pour les actions liées aux véhicules (CRUD)
+│   ├── AuthController.php  // Contrôleur pour l'authentification (login, logout, register)
+│   └── AdminController.php // Contrôleur pour la section administration
+├── middleware/
+│   └── AuthMiddleware.php  // Gère les permissions et la sécurité des routes
+├── public/
+│   ├── index.php         // Point d'entrée unique (Front Controller)
+│   └── css/style.css     // Feuille de style
+└── sql/
+    └── database.sql      // Script de création de la base de données
