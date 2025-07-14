@@ -14,7 +14,7 @@ ServerSignature Off
 	Require all denied # Apache 2.4+ equivalent de Order allow,deny Deny from all
 </FilesMatch>
 
-<!-- Protection des repertoires -->
+<!--Protection des repertoires -->
 <DirectoryMatch "(config|src|tests|storage|vendor|bootstrap|resources)">
 	Require all denied # Apache 2.4+ equivalent de Order allow,deny Deny from all
 </DirectoryMatch>

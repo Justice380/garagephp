@@ -1,10 +1,11 @@
+
 name: CI GaragePhp
 
 on:
   push:
       branches:
           -main
-  pull-request:
+  pull_request:
       branches:
           -main
 
@@ -13,18 +14,22 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-           -name: Checkout du code
-            uses: actions/checkout@v4
 
-           -name: Configuration PHP
-            uses: shivammathur/setup-php@v2
-            with:
+            - name: Checkout du code
+              uses: actions/checkout@v4
+
+            - name: Configuration PHP
+              uses: shivammathur/setup-php@v2
+              with:
                 php-version: '8.2' #la version de php que vous utilisez
                 extensions: pdo_mysql, mbstring #Ajoute les extensions nécessaire
                 tools: composer #installe composer
 
-           -name: Installation des dépendances composer
-             run: composer install --no-interaction --prefer-dist --optimize-autoloader
+            - name: Installation des dépendances composer
+              run: composer install --no-interaction --prefer-dist --optimize-autoloader
 
-           -name: Execution des tests PHPUnit
-             run: vendor/bin/phpunit #Assurez-vous PHPUnit est configuré
+            - name: Lint PHP files
+              run: find . -type f -name "*.php" ! -path "./vendor/*" -exec php -1 {} \; | (! grep "Errors parsing")
+
+            - name: Execution des tests PHPUnit
+              run: vendor/bin/phpunit #Assurez-vous PHPUnit est configuré
