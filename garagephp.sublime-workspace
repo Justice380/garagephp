@@ -1,0 +1,3177 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"xsi"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"if",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"array",
+				"array_filter()"
+			],
+			[
+				"val",
+				"validateConfig"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"filter",
+				"filter_var()"
+			],
+			[
+				"ce",
+				"ecole"
+			],
+			[
+				"get",
+				"getNom"
+			],
+			[
+				"per",
+				"Personne2"
+			],
+			[
+				"Person",
+				"Personne"
+			],
+			[
+				"se",
+				"setAge"
+			],
+			[
+				"s",
+				"setNom"
+			],
+			[
+				"ge",
+				"getAge"
+			],
+			[
+				"mot",
+				"motPlusLong"
+			],
+			[
+				"nom",
+				"nombreCaracteres"
+			],
+			[
+				"mo",
+				"motPlusLong"
+			],
+			[
+				"nou",
+				"nouvelleliste"
+			],
+			[
+				"prin",
+				"print_r()"
+			],
+			[
+				"no",
+				"nombreEtudiants"
+			],
+			[
+				"php",
+				"php\t<?php … ?>"
+			],
+			[
+				"ca",
+				"calculerAireRectangle"
+			],
+			[
+				"nomb",
+				"nombre2"
+			],
+			[
+				"nombre",
+				"nombre2"
+			],
+			[
+				"function",
+				"create_function()"
+			],
+			[
+				"ph",
+				"php\t<?php … ?>"
+			],
+			[
+				"json",
+				"json_encode()"
+			],
+			[
+				"voir",
+				"VoitureController"
+			],
+			[
+				"us",
+				"userName"
+			],
+			[
+				"els",
+				"elseif"
+			],
+			[
+				"t",
+				"txt2"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"ap",
+				"param"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"var",
+				"var_dump()"
+			],
+			[
+				"lo",
+				"localhost"
+			],
+			[
+				"r",
+				"REQUEST_URI"
+			],
+			[
+				"_ser",
+				"_SERVER"
+			],
+			[
+				"grad",
+				"gradesUnderTen"
+			],
+			[
+				"array_f",
+				"array_filter()"
+			],
+			[
+				"gra",
+				"gradesPlusOne"
+			],
+			[
+				"is",
+				"is_array()"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"fore",
+				"foreach\tforeach …"
+			],
+			[
+				"an",
+				"anonymousAuthor"
+			],
+			[
+				"na",
+				"nameLength"
+			],
+			[
+				"ta",
+				"tableau_special"
+			],
+			[
+				"f",
+				"famille_bis"
+			],
+			[
+				"arry",
+				"array()"
+			],
+			[
+				"lis",
+				"listeCourses"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"ani",
+				"animal"
+			],
+			[
+				"varr",
+				"varr\tVAR_snippet"
+			],
+			[
+				"pri",
+				"print_r()"
+			],
+			[
+				"a",
+				"animalsLength"
+			],
+			[
+				"st",
+				"str_split"
+			],
+			[
+				"say",
+				"sayHello4"
+			],
+			[
+				"sa",
+				"sayHello3"
+			],
+			[
+				"aff",
+				"affiche_bis"
+			],
+			[
+				"ar",
+				"array()"
+			],
+			[
+				"v",
+				"verif2"
+			],
+			[
+				"comp",
+				"comptage"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"echo",
+				"echoh\t<?php echo htmlentities(…) ?>"
+			],
+			[
+				"pre",
+				"presentation"
+			],
+			[
+				"in",
+				"infos2"
+			],
+			[
+				"p",
+				"phrase2"
+			],
+			[
+				"tes",
+				"test2"
+			],
+			[
+				"chiffr",
+				"chiffre2"
+			],
+			[
+				"anim",
+				"animaux"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"dens",
+				"dense"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"af",
+				"auto-fit"
+			],
+			[
+				"min",
+				"minmax()"
+			],
+			[
+				"au",
+				"auto-fit"
+			],
+			[
+				"main",
+				"mainNav"
+			],
+			[
+				"--bl",
+				"--black-30"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"--b",
+				"--black-30"
+			],
+			[
+				"--whi",
+				"--white-70"
+			],
+			[
+				"-w",
+				"--white-70"
+			],
+			[
+				"de",
+				"defs\tMethod"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"auto-f",
+				"auto-fit"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"d",
+				"defs\tMethod"
+			],
+			[
+				"__",
+				"__main__〔variable〕"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"b",
+				"balanced_outward"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"ba",
+				"balanced_inward"
+			],
+			[
+				"T",
+				"Tue"
+			],
+			[
+				"pa",
+				"param2"
+			],
+			[
+				"req",
+				"req1\trequire_once …"
+			],
+			[
+				"fu",
+				"fun1\tfunction …"
+			],
+			[
+				"getd",
+				"get_defined_vars()"
+			],
+			[
+				"err",
+				"error_reporting()"
+			],
+			[
+				"sub",
+				"subt_result"
+			],
+			[
+				"arr",
+				"array()"
+			],
+			[
+				"ad",
+				"add_subt"
+			],
+			[
+				"add",
+				"vpopmail_add_domain()"
+			],
+			[
+				"va",
+				"val2"
+			],
+			[
+				"20",
+				"2027"
+			],
+			[
+				"bkc",
+				"background-color"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"continu",
+				"PDF_continue_text()"
+			],
+			[
+				"is_in",
+				"is_int()"
+			],
+			[
+				"at",
+				"attr_nice"
+			],
+			[
+				"IF",
+				"ifelse\tif … else …"
+			],
+			[
+				"pr",
+				"print_r($joueur"
+			],
+			[
+				"a_",
+				"a_int"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"coun",
+				"count2"
+			],
+			[
+				"res",
+				"resul2"
+			],
+			[
+				"strch",
+				"strrchr()"
+			],
+			[
+				"ec",
+				"echo()"
+			],
+			[
+				"ma",
+				"maxlength"
+			],
+			[
+				"--",
+				"--dark-grey"
+			],
+			[
+				"su",
+				"subject-hint"
+			],
+			[
+				"col-md",
+				"col-md-8"
+			],
+			[
+				"FUN",
+				"func_num_args()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 779,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 794,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAAAkBAAAAAAAACQEAAAAAAAAFAAAAPCEtLSA",
+					"AQAAAAAAAAABAAAADgEAAAAAAAAOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAACgBAAAAAAAAKAEAAAAAAAAEAAAAIC0tPg",
+					"AQAAAAAAAAABAAAAKAEAAAAAAAAoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAkBAAAAAAAACgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					21,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAAIcBAAAAAAAAhwEAAAAAAAAFAAAAPCEtLSA",
+					"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAAJoBAAAAAAAAmgEAAAAAAAAEAAAAIC0tPg",
+					"AQAAAAAAAAABAAAAmgEAAAAAAACaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAIcBAAAAAAAAiAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwEAAAAAAACHAQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					33,
+					1,
+					"title_case",
+					null,
+					"AQAAAMoBAAAAAAAA0QEAAAAAAAAHAAAAY29udGVudA",
+					"AQAAAAAAAAABAAAAygEAAAAAAADKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAAEMCAAAAAAAAQwIAAAAAAAAGAAAACTwhLS0g",
+					"AQAAAAAAAAABAAAASQIAAAAAAABJAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAEMCAAAAAAAARAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwIAAAAAAABDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAAEMCAAAAAAAARAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAIAAAAAAABEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAAJgCAAAAAAAAmAIAAAAAAAAEAAAAIC0tPg",
+					"AQAAAAAAAAABAAAAmAIAAAAAAACYAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					5,
+					"left_delete",
+					null,
+					"BQAAAF8AAAAAAAAAXwAAAAAAAAABAAAAIF4AAAAAAAAAXgAAAAAAAAABAAAALV0AAAAAAAAAXQAAAAAAAAABAAAALVwAAAAAAAAAXAAAAAAAAAABAAAAIVsAAAAAAAAAWwAAAAAAAAABAAAAPA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAAGsAAAAAAAAAawAAAAAAAAAEAAAAIC0tPg",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAJkAAAAAAAAAmQAAAAAAAAAFAAAAPCEtLSA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAJoAAAAAAAAAmwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAAMgAAAAAAAAAyAAAAAAAAAAEAAAAIC0tPg",
+					"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "public/.htaccess",
+			"settings":
+			{
+				"buffer_size": 1307,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAP4AAAAAAAAA/gAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAA/wAAAAAAAAD/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAP4AAAAAAAAAAAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gAAAAAAAAD+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAAP8AAAAAAAAAAAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAEBAAAAAAAAAgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQEAAAAAAAABAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAADIBAAAAAAAAMgEAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"swap_line_up",
+					null,
+					"AgAAAEMBAAAAAAAAQwEAAAAAAABdAAAACVJlcXVpcmUgYWxsIGdyYW50ZWQgPCEtIC0gIEFwYWNoZSAyLjQrIMOpcXVpdmFsZW50IGRlIE9yZGVyIGFsbG93LCBkZW55IEFsbG93IGZyb20gYWxsLSAtID4KMwEAAAAAAACPAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAEAAAAAAAA0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAAKABAAAAAAAA/QEAAAAAAAAAAAAAMwEAAAAAAAAzAQAAAAAAAF4AAAAJCVJlcXVpcmUgYWxsIGdyYW50ZWQgPCEtIC0gIEFwYWNoZSAyLjQrIMOpcXVpdmFsZW50IGRlIE9yZGVyIGFsbG93LCBkZW55IEFsbG93IGZyb20gYWxsLSAtID4K",
+					"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"swap_line_up",
+					null,
+					"AgAAAEMBAAAAAAAAQwEAAAAAAABeAAAACQlSZXF1aXJlIGFsbCBncmFudGVkIDwhLSAtICBBcGFjaGUgMi40KyDDqXF1aXZhbGVudCBkZSBPcmRlciBhbGxvdywgZGVueSBBbGxvdyBmcm9tIGFsbC0gLSA+CjMBAAAAAAAAkAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAADMBAAAAAAAAMwEAAAAAAAAWAAAACQlSZXF1aXJlIGFsbCBncmFudGVkIA",
+					"AQAAAAAAAAABAAAASQEAAAAAAABJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"right_delete",
+					null,
+					"AQAAADQBAAAAAAAANAEAAAAAAAAFAAAAPCEtIC0",
+					"AQAAAAAAAAABAAAANAEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgEAAAAAAAA2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"left_delete",
+					null,
+					"AQAAADYBAAAAAAAANgEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAADYBAAAAAAAANwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgEAAAAAAAA2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					2,
+					"unindent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AgAAADMBAAAAAAAAMwEAAAAAAAABAAAACTMBAAAAAAAAMwEAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "   "
+					},
+					"AwAAADUBAAAAAAAANgEAAAAAAAAAAAAANgEAAAAAAAA3AQAAAAAAAAAAAAA3AQAAAAAAADgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAAHMBAAAAAAAAcwEAAAAAAAAFAAAALSAtID4",
+					"AQAAAAAAAAABAAAAcwEAAAAAAABzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIMBAAAAAAAAhAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAAIQBAAAAAAAAhQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "Rqui"
+					},
+					"BAAAAIUBAAAAAAAAhgEAAAAAAAAAAAAAhgEAAAAAAACHAQAAAAAAAAAAAACHAQAAAAAAAIgBAAAAAAAAAAAAAIgBAAAAAAAAiQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQEAAAAAAACFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					3,
+					"left_delete",
+					null,
+					"AwAAAIgBAAAAAAAAiAEAAAAAAAABAAAAaYcBAAAAAAAAhwEAAAAAAAABAAAAdYYBAAAAAAAAhgEAAAAAAAABAAAAcQ",
+					"AQAAAAAAAAABAAAAiQEAAAAAAACJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "equire"
+					},
+					"BgAAAIYBAAAAAAAAhwEAAAAAAAAAAAAAhwEAAAAAAACIAQAAAAAAAAAAAACIAQAAAAAAAIkBAAAAAAAAAAAAAIkBAAAAAAAAigEAAAAAAAAAAAAAigEAAAAAAACLAQAAAAAAAAAAAACLAQAAAAAAAIwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgEAAAAAAACGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": " all"
+					},
+					"BAAAAIwBAAAAAAAAjQEAAAAAAAAAAAAAjQEAAAAAAACOAQAAAAAAAAAAAACOAQAAAAAAAI8BAAAAAAAAAAAAAI8BAAAAAAAAkAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": " grandte"
+					},
+					"CAAAAJABAAAAAAAAkQEAAAAAAAAAAAAAkQEAAAAAAACSAQAAAAAAAAAAAACSAQAAAAAAAJMBAAAAAAAAAAAAAJMBAAAAAAAAlAEAAAAAAAAAAAAAlAEAAAAAAACVAQAAAAAAAAAAAACVAQAAAAAAAJYBAAAAAAAAAAAAAJYBAAAAAAAAlwEAAAAAAAAAAAAAlwEAAAAAAACYAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAEAAAAAAACQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					3,
+					"left_delete",
+					null,
+					"AwAAAJcBAAAAAAAAlwEAAAAAAAABAAAAZZYBAAAAAAAAlgEAAAAAAAABAAAAdJUBAAAAAAAAlQEAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "ted"
+					},
+					"AwAAAJUBAAAAAAAAlgEAAAAAAAAAAAAAlgEAAAAAAACXAQAAAAAAAAAAAACXAQAAAAAAAJgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQEAAAAAAACVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					4,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"BAAAAKgBAAAAAAAAqAEAAAAAAAACAAAAICCnAQAAAAAAAKcBAAAAAAAAAQAAAC2jAQAAAAAAAKMBAAAAAAAABAAAADwhLSCiAQAAAAAAAKIBAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAqgEAAAAAAACqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKIBAAAAAAAAowEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogEAAAAAAACiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAKMBAAAAAAAApAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowEAAAAAAACjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAACECAAAAAAAAIQIAAAAAAAAGAAAAIC0gLSA+",
+					"AQAAAAAAAAABAAAAIQIAAAAAAAAhAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAMgBAAAAAAAAyQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAEAAAAAAADIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					130,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAACICAAAAAAAAIwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgIAAAAAAAAiAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					1,
+					"unindent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AwAAANEAAAAAAAAA0QAAAAAAAAABAAAACf4AAAAAAAAA/gAAAAAAAAABAAAACTEBAAAAAAAAMQEAAAAAAAABAAAACQ",
+					"AQAAAAAAAAADAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/AAEAAAAAAAAAAQAAAAAAAAAAAAAAgEpANAEAAAAAAAA0AQAAAAAAAAAAAAAAgEpA"
+				],
+				[
+					162,
+					1,
+					"unindent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAACwAAAAAAAAALAAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					1,
+					"indent",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							}
+						}
+					},
+					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "phpunit.xml.dist",
+			"settings":
+			{
+				"buffer_size": 553,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					21,
+					1,
+					"replace_next",
+					null,
+					"AQAAAB0BAAAAAAAAJgEAAAAAAAAKAAAAdGVzdHN1aXRlcw",
+					"AQAAAAAAAAABAAAAHQEAAAAAAAAnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"replace_next",
+					null,
+					"AQAAAF0BAAAAAAAAZgEAAAAAAAAKAAAAdGVzdHN1aXRlcw",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"replace_next",
+					null,
+					"AQAAAGsBAAAAAAAAdAEAAAAAAAAKAAAAdGVzdHN1aXRlcw",
+					"AQAAAAAAAAABAAAAawEAAAAAAAB1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"replace_next",
+					null,
+					"AQAAALcBAAAAAAAAwAEAAAAAAAAKAAAAdGVzdHN1aXRlcw",
+					"AQAAAAAAAAABAAAAtwEAAAAAAADBAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"togg",
+				"View: Toggle Status Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control e",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: VAR_snippet"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"snippet",
+				"Snippet: COOKIE['…']"
+			],
+			[
+				"m",
+				"View: Toggle Menu"
+			],
+			[
+				"vtt",
+				"View: Toggle Tabs"
+			],
+			[
+				"vt",
+				"View: Toggle Menu"
+			],
+			[
+				"vtst",
+				"View: Toggle Status Bar"
+			],
+			[
+				"vtsb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"vtsst",
+				"View: Toggle Status Bar"
+			],
+			[
+				"v",
+				"View: Toggle Menu"
+			],
+			[
+				"VTT",
+				"View: Toggle Tabs"
+			],
+			[
+				"TO",
+				"View: Toggle Menu"
+			],
+			[
+				"tog",
+				"View: Toggle Tabs"
+			],
+			[
+				"togglet",
+				"View: Toggle Tabs"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"free",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"xml",
+				"Snippet: XML Declaration"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"View: Toggle Minimap"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"togglem",
+				"View: Toggle Minimap"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"togmp",
+				"View: Toggle Minimap"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"pad",
+				"Package Control: Advanced Enable Packages"
+			],
+			[
+				"packagecontre",
+				"Package Control: Enable Package"
+			],
+			[
+				"tme",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Enable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: Ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REIND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"per",
+				"Permute Lines: Reverse"
+			],
+			[
+				"per*",
+				"Permute Lines: Reverse"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"revers",
+				"Permute Lines: Reverse"
+			],
+			[
+				"tot",
+				"View: Toggle Tabs"
+			],
+			[
+				"li",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold"
+			],
+			[
+				"u",
+				"Code Folding: Unfold"
+			],
+			[
+				"fold",
+				"Code Folding: Fold"
+			],
+			[
+				"fol",
+				"Code Folding: Fold"
+			],
+			[
+				"unfold",
+				"Code Folding: Unfold"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold"
+			],
+			[
+				"und",
+				"Code Folding: Unfold"
+			],
+			[
+				"fd",
+				"Code Folding: Fold"
+			],
+			[
+				"f",
+				"Project: Add Folder"
+			],
+			[
+				"ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"unfod",
+				"Code Folding: Unfold"
+			],
+			[
+				"a",
+				"Set Syntax: Sass"
+			],
+			[
+				"unique",
+				"Permute Lines: Unique"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"fo",
+				"Project: Add Folder"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"togt",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"sy",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"SyncS",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"syncScroll",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"sync",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package controi",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle m",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"togglemi",
+				"View: Toggle Minimap"
+			],
+			[
+				"emmet",
+				"Preferences: Emmet Key Bindings"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: SCSS"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"anl ",
+				"Selection: Add Next Line"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini ",
+				"View: Toggle Minimap"
+			],
+			[
+				"l",
+				"Live Server: Start"
+			],
+			[
+				"liv",
+				"Live Server: Open In Browser"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"nf",
+				"File: New File"
+			],
+			[
+				"add ne",
+				"Selection: Add Next Line"
+			],
+			[
+				"del",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"live server:s",
+				"Live Server: Start"
+			],
+			[
+				"live",
+				"Preferences: Live Server Settings"
+			],
+			[
+				"synt",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javaScript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Viewtogglemi",
+				"View: Toggle Minimap"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"delete ",
+				"File: Delete"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Snippet: Object Value JS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fod",
+				"Project: Add Folder"
+			],
+			[
+				"rename File",
+				"Rename File"
+			],
+			[
+				"REN",
+				"Rename File"
+			],
+			[
+				"ReadmePlease",
+				"ReadmePlease"
+			],
+			[
+				"Readme",
+				"ReadmePlease"
+			],
+			[
+				"naviga",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"Menu",
+				"Permute Lines: Unique"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Side Bar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"INS",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"sid",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side Bar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 763.0,
+		"history":
+		[
+			"sass style.scss",
+			"sass --version",
+			"sass styles.scss",
+			"python",
+			"node -v",
+			"npm install",
+			"ans format long",
+			"format long",
+			"format short a/b",
+			"Format Short a/b",
+			"a/b",
+			"format short",
+			"a/b",
+			"format short",
+			"a/b",
+			"a*b",
+			"a+b",
+			"a=5;b=3;",
+			"a*b"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/C/env/Workspace/GaragePhp",
+		"/C/env/Workspace/GaragePhp/.github",
+		"/C/env/Workspace/GaragePhp/public",
+		"/C/env/Workspace/GaragePhp/sql",
+		"/C/env/Workspace/GaragePhp/src",
+		"/C/env/Workspace/GaragePhp/src/Config"
+	],
+	"file_history":
+	[
+		"/C/env/Workspace/GaragePhp/.env.example",
+		"/C/env/Workspace/GaragePhp/Dockerfile",
+		"/C/env/Workspace/GaragePhp/.env",
+		"/C/env/Workspace/GaragePhp/src/Models/User.php",
+		"/C/env/Workspace/GaragePhp/.htaccess",
+		"/C/env/Workspace/GaragePhp/docker-compose.yml",
+		"/C/env/Workspace/GaragePhp/public/.htaccess",
+		"/C/env/Workspace/GaragePhp/phpunit.xml.dist",
+		"/C/env/Workspace/GaragePhp/src/Models/BaseModel.php",
+		"/C/env/Workspace/GaragePhp/sql/garagephp.sql",
+		"/C/env/Workspace/GaragePhp/src/config/Database.php",
+		"/C/env/Workspace/GaragePhp/config/Config.php",
+		"/C/env/Workspace/GaragePhp/composer.json",
+		"/C/env/Workspace/GaragePhp/.gitignore",
+		"/C/env/Workspace/GaragePhp/.github/workflows/main.yml",
+		"/C/wamp64/www/GaragePhp/.github/workflows/main.yml",
+		"/C/wamp64/www/GaragePhp/public/.htaccess",
+		"/C/wamp64/www/GaragePhp/Christian LOHEZ - Formateur referent DWWM",
+		"/C/wamp64/www/GaragePhp/.gitignore",
+		"/C/wamp64/www/GaragePhp/.htaccess",
+		"/C/wamp64/www/GaragePhp/.env",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/GaragePhp/.env",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/GaragePhp/public/.htaccess",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/GaragePhp/.htaccess",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/GaragePhp/config/Database.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/GaragePhp/Christian LOHEZ - Formateur referent DWWM",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/php/02-L'heritage.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/php/03-Objet.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/php/01-Exo.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/php/00-index.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/php/02-exoSuite.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/php/03-php-ini.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/php/index.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-9/01-accueil.php",
+		"/C/Users/Utilisateur/AppData/Roaming/Sublime Text/Packages/Emmet/emmet/snippets/css.py",
+		"/C/xampp/htdocs/cours-studi/env/1-html-css/Live/2209-html-css/Theorie-2/css/style.css",
+		"/C/xampp/htdocs/cours-studi/env/1-html-css/Live/2209-html-css/Theorie-2/index.html",
+		"/C/xampp/htdocs/cours-studi/env/3-javaScript/Live/Live-1/asset/js/script.js",
+		"/C/xampp/htdocs/cours-studi/env/3-javaScript/Live/Live-1/index.html",
+		"/C/xampp/htdocs/cours-studi/env/3-javaScript/Live/Live-0/asset/js/script.js",
+		"/C/xampp/htdocs/cours-studi/env/3-javaScript/Live/Live-0/index.html",
+		"/C/xampp/htdocs/cours-studi/env/3-javaScript/Cours/Cours-1/script.js",
+		"/C/xampp/htdocs/cours-studi/env/3-javaScript/Cours/Cours-1/index.html",
+		"/C/xampp/htdocs/cours-studi/env/3-javaScript/Cours/Cours-1/style.css",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-7/7-1_DéclarerSesFonctions.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/1-W3SPHP/1-a_PHPFunctions/PHPLoops.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/1-W3SPHP/1-a_PHPFunctions/functions.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/1-W3SPHP/1-a_PHPFunctions/a.1-Fonctions",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-6/6.0-BoucleFor.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/public/css/index.css",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/src/Controllers/VoitureController.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/public/index.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/public/js/main.js",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/index.html",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/src/Core/Router.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/composer.json",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/Cours-1/index.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/Cours-1/Destroye.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/Cours-1/Cuirasse.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/Cours-1/Bateau.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-6/6.1-L'instructionBreak.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-6/6.2-Pratique.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/src/Models/Voiture.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/.env.example",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/.htaccess",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/gestionnaireVoiturePoo/composer.lock",
+		"/C/xampp/htdocs/cours-studi/env/1-algorithme/1.1-Boucles/boucles.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/PratiqueLohez/1-W3SPHP/PHPLoops.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-5/5.0-Conditions.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-5/5.1-Switch-match.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/06-Exo5.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/03-Exos2.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/02-Exos.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-6/6.1-Exo.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-6/Exos.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/Cuirasse.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/Destroye.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/Bateau.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Php-objet/index.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-9/00-sommaire.txt",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-9/assets/test.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/06-session.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/07-question.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/08-file.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/image.jpg",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/04-get.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/06-paiement.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/05-post.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/03-server.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/02-super-global-suite.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-4/4.2.1-ExosSurTableau.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-7/00-sommaire.txt",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/00-sommaire.txt",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-8/01-super-global.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-4/4.1-Tableaux Indexés.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-3/3.3-FonctionsSurArrays.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-3/3.2.1-ExosSurStrings.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-4/4.2-Fonctions-systèmes-tableaux.php",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.5_Multimedia_En_Html/index.html",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.5_Multimedia_En_Html/asset/script.js",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.5_Multimedia_En_Html/asset/style.css",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.3.0_L'organisationDuTexte/index.html",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.3.1_Exos/index.html",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.3_L'organisationDuTexte/index.html",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-4/4.02-Fonctions-systèmes-tableaux.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-4/4.01-Tableaux Indexés.php",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.3_L'organisationDuTexte/asset/style.css",
+		"/C/xampp/htdocs/cours-studi/env/3-html-css/Cours/3.3_L'organisationDuTexte/asset/script.js",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-3/3.7-Exos.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-4/4.00-Syntax-Tableau.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-2/2.7-Exercices.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/04-Exo3.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-3/3.6-FonctionsInternes-FnVariables.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-7/04-fonction-native.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-7/03-tableau-multi.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-2/2.1-tableau.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-2/2.2-IntroductionManipulatinDesObjets.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-7/01-tableau.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Live/Live-7/02-tableau-associatif.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/O7-Exo6.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/05-Exo4.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/01-Alternances-Php-Html.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-1/00-php-html.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-3/3.4-FonctionsMathematiques.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-3/3.2-FonctionsSurStrings.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-2/2.0.1-chaineDeCaractères.php",
+		"/C/xampp/htdocs/cours-studi/env/2-Php/Cours/Cours-2/2.0-nullBool.php",
+		"/C/Users/Utilisateur/AppData/Roaming/Sublime Text/Packages/PHP/Snippets/new-array(-).sublime-snippet"
+	],
+	"find":
+	{
+		"height": 48.4033613445
+	},
+	"find_in_files":
+	{
+		"height": 160.27826087,
+		"where_history":
+		[
+			"C:\\wamp64\\www\\GaragePhp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"testsuites",
+			"environnement",
+			"Unit",
+			"garage",
+			"APP_ENV",
+			"mysql",
+			"HOST",
+			"NAME",
+			"DATABASE",
+			"MYSQL_DATABASE",
+			"DATABASE",
+			"const",
+			"NAME",
+			"compposer",
+			"installler",
+			"cdomp",
+			"ziip",
+			",",
+			"(int)",
+			"user_id",
+			"username",
+			"user_id",
+			"***\n",
+			"sstrin",
+			"param",
+			"role",
+			"password",
+			"username",
+			"() ",
+			"nser",
+			"utili",
+			"username",
+			"Username",
+			"user_id",
+			"?int",
+			"Id",
+			"password",
+			"pas",
+			"connextiond",
+			"année",
+			"marque",
+			"'",
+			"`",
+			"created_at",
+			"VARCHAR",
+			"modele",
+			"100",
+			"modele",
+			"marque",
+			"car_id",
+			"created_at",
+			"UNIQUE",
+			"username",
+			"connexiion",
+			"connextion",
+			"Cnof",
+			"ifo",
+			"créaati",
+			"fucnt",
+			"néttoye",
+			"true",
+			"false",
+			"NAME²",
+			"NAME",
+			"DB_NAME",
+			"envfile",
+			"fastroute",
+			"- ",
+			" >",
+			" -",
+			"-",
+			"request",
+			"-",
+			"Exécution",
+			"colmpos",
+			"dépendsance",
+			"v4",
+			"ch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"testsuite",
+			"environment",
+			"root",
+			"garagephp",
+			";",
+			"params",
+			"annee",
+			"fast-route",
+			"-",
+			">",
+			"-",
+			"- "
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": false,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"origPos":
+							[
+								0.0,
+								423.529411765
+							],
+							"syncScroll": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 423.529411765,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"origPos":
+							[
+								0.0,
+								367.058823529
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "phpunit.xml.dist",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								463
+							]
+						],
+						"settings":
+						{
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.1092436975
+	},
+	"input":
+	{
+		"height": 56.7652173913
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 37.5652173913
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 240.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 157.600006104
+	},
+	"output.find_results":
+	{
+		"height": 268.0,
+		"history":
+		[
+		]
+	},
+	"output.unsaved_changes":
+	{
+		"height": 157.600006104
+	},
+	"pinned_build_system": "",
+	"project": "garagephp.sublime-project",
+	"replace":
+	{
+		"height": 88.7394957983
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"doc",
+				"docker-compose.yml"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"gar",
+				"sql\\garagephp.sql"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"comp",
+				"2-Php\\PratiqueLohez\\gestionnaireVoiturePoo\\composer.json"
+			],
+			[
+				"ind",
+				"2-Php\\Php-objet\\Cours-1\\index.php"
+			],
+			[
+				"rout",
+				"2-Php\\PratiqueLohez\\gestionnaireVoiturePoo\\src\\Core\\Router.php"
+			],
+			[
+				"voit",
+				"2-Php\\PratiqueLohez\\gestionnaireVoiturePoo\\src\\Models\\Voiture.php"
+			],
+			[
+				"04n",
+				"2-Php\\Live\\Live-7\\04-fonction-native.php"
+			],
+			[
+				"tam",
+				"2-Php\\Live\\Live-7\\03-tableau-multi.php"
+			],
+			[
+				"00-php",
+				"2-Php\\Cours\\Cours-1\\00-php-html.php"
+			],
+			[
+				"3.2",
+				"2-Php\\Cours\\Cours-3\\3.2-FonctionsSurStrings.php"
+			],
+			[
+				"2.6",
+				"2-Php\\Cours\\Cours-2\\2.6-Constantes.php"
+			],
+			[
+				"02",
+				"env\\2-Php\\Live\\Live-4\\02-test.js"
+			],
+			[
+				"2",
+				"env\\2-Php\\Cours\\Cours-2\\2.1-tableau.php"
+			],
+			[
+				"01",
+				"env\\2-Php\\Cours\\Cours-1\\01-Alternances-Php-Html.php"
+			],
+			[
+				"i",
+				"Chapitre_05\\05_02\\index.html"
+			],
+			[
+				"inex",
+				"Chapitre_05\\05_00\\index.html"
+			],
+			[
+				"base",
+				"Chapitre_05\\05_01\\styles\\base.css"
+			],
+			[
+				"index",
+				"Chapitre_05\\05_00\\index.html"
+			],
+			[
+				"b",
+				"Chapitre_05\\05_00\\styles\\base.css"
+			],
+			[
+				"inde",
+				"Chapitre_05\\05_01\\index.html"
+			],
+			[
+				"in",
+				"Chapitre_04\\04_02\\index.html"
+			],
+			[
+				"s",
+				"Chapitre_03\\03_01\\styles.css"
+			],
+			[
+				"h",
+				"sass\\header.txt"
+			],
+			[
+				"l",
+				"sass\\layout.txt"
+			],
+			[
+				"he",
+				"sass\\header.txt"
+			],
+			[
+				"fo",
+				"sass\\footer.txt"
+			],
+			[
+				"j",
+				"js\\jquery_1_10_2.js"
+			],
+			[
+				"js",
+				"js\\jquery_1_10_2.js"
+			],
+			[
+				"ts",
+				"test.html"
+			],
+			[
+				"fonctionspre",
+				"03_Fonctions\\03_03\\Sandbox\\fonctionspredefinies.php"
+			],
+			[
+				"t",
+				"03_Fonctions\\03_04\\Sandbox\\test.php"
+			],
+			[
+				"HellWo",
+				"03_Fonctions\\03_03\\Sandbox\\HelloWorld.php"
+			],
+			[
+				"vp",
+				"03_Fonctions\\03_02\\Sandbox\\variablesPortees.php"
+			],
+			[
+				"st",
+				"Chapter_03\\03_02\\sandbox\\strings.php"
+			],
+			[
+				"v",
+				"Chapter_03\\03_01\\sandbox\\variables.php"
+			],
+			[
+				"ba",
+				"06_04\\sandbox\\basic.html"
+			],
+			[
+				"22",
+				"02_02\\index.html"
+			],
+			[
+				"",
+				"site\\sass\\index.txt"
+			],
+			[
+				"basi",
+				"05_05\\sandbox\\basic.html"
+			],
+			[
+				"ta",
+				"02_10\\Sandbox\\tableau_associatif.php"
+			],
+			[
+				"sw",
+				"02_07\\Sandbox\\switch_case.php"
+			],
+			[
+				"con",
+				"02_06\\Sandbox\\conditions.php"
+			],
+			[
+				"o",
+				"02_05\\Sandbox\\operateur_comparaison.php"
+			],
+			[
+				"vari",
+				"02_05\\Sandbox\\variables2.php"
+			],
+			[
+				"com",
+				"02_03\\Sandbox\\Commentaires.php"
+			],
+			[
+				"sty",
+				"Sandbox\\1_ResponsiveDesign\\Chapitre_01\\01_01\\styles.css"
+			],
+			[
+				"te",
+				"site\\test.html"
+			],
+			[
+				"bas",
+				"Chapter_04\\04_04\\sandbox\\basic.html"
+			],
+			[
+				"ope",
+				"Chapter_04\\04_04\\sandbox\\operators.php"
+			],
+			[
+				"lo",
+				"Chapter_04\\04_03\\sandbox\\logical.php"
+			],
+			[
+				"log",
+				"Chapter_04\\04_02\\sandbox\\logical.php"
+			],
+			[
+				"basic",
+				"Chapter_03\\03_12\\sandbox\\basic.html"
+			],
+			[
+				"null",
+				"Chapter_03\\03_10\\sandbox\\null.php"
+			],
+			[
+				"conf",
+				"web\\config.php"
+			],
+			[
+				"app.",
+				"web\\app.php"
+			],
+			[
+				"cons",
+				"bin\\console"
+			],
+			[
+				"c",
+				"Chapitre01\\01_01\\index.html"
+			],
+			[
+				"co",
+				"08_01\\collection.html"
+			],
+			[
+				"conta",
+				"06_08\\contact.html"
+			],
+			[
+				"my",
+				"06_07\\css\\mycompany.css"
+			],
+			[
+				"re",
+				"css\\reset.css"
+			],
+			[
+				"35",
+				"Chapitre_03\\03_05\\index.html"
+			],
+			[
+				"t5.j",
+				"test5.js"
+			],
+			[
+				"te5",
+				"test5.html"
+			],
+			[
+				"m",
+				"merci.html"
+			],
+			[
+				"r",
+				"css\\registration.css"
+			],
+			[
+				"stles.c",
+				"CSS\\styles.css"
+			],
+			[
+				"var",
+				"less\\variables.less"
+			],
+			[
+				".s",
+				"images\\question-mark.svg"
+			],
+			[
+				"syt",
+				"CSS\\styles.css"
+			],
+			[
+				"styles",
+				"CSS\\styles.css"
+			],
+			[
+				"styl",
+				"less\\styles.less"
+			],
+			[
+				"mi",
+				"less\\mixins.less"
+			],
+			[
+				"vai",
+				"less\\variables.less"
+			],
+			[
+				"styles.c",
+				"CSS\\styles.css"
+			],
+			[
+				"vcm",
+				"import\\variables.css.map"
+			],
+			[
+				"sy",
+				"style.css"
+			],
+			[
+				"pl",
+				"js\\player.js"
+			],
+			[
+				"ja",
+				"js\\player.js"
+			],
+			[
+				"vi",
+				"css\\videoPlayer.css"
+			],
+			[
+				"css",
+				"css\\videoPlayer.css"
+			],
+			[
+				"p",
+				"js\\player.js"
+			],
+			[
+				"sc",
+				"js\\script.js"
+			],
+			[
+				"stylesM",
+				"css\\stylesMenuDeroulant.css"
+			],
+			[
+				"cs",
+				"css\\styles1.css"
+			],
+			[
+				"scrip",
+				"06_01\\js\\script.js"
+			],
+			[
+				"stylest",
+				"62-Trois-colonnes\\css\\stylesTroisColonnes.css"
+			],
+			[
+				"Sty",
+				"css\\styles1.css"
+			],
+			[
+				"scr",
+				"js\\script.js"
+			],
+			[
+				"_mainf",
+				"sass\\modules\\_mainFooter.scss"
+			],
+			[
+				"_t",
+				"sass\\modules\\_text.scss"
+			],
+			[
+				"_ho",
+				"sass\\modules\\_home.scss"
+			],
+			[
+				"_mainh",
+				"sass\\modules\\_mainHeader.scss"
+			],
+			[
+				"min",
+				"sass\\utils\\_mixins.scss"
+			],
+			[
+				"_m",
+				"sass\\modules\\_mainHeader.scss"
+			],
+			[
+				"_mainH",
+				"sass\\modules\\_mainHeader.scss"
+			],
+			[
+				"_v",
+				"sass\\utils\\_variables.scss"
+			],
+			[
+				"_fun",
+				"sass\\utils\\_functions.scss"
+			],
+			[
+				"_fo",
+				"sass\\classes\\_font-sizes.scss"
+			],
+			[
+				"_col",
+				"sass\\classes\\_colors.scss"
+			],
+			[
+				"styles.s",
+				"sass\\styles.scss"
+			],
+			[
+				"_b",
+				"sass\\classes\\_buttons.scss"
+			],
+			[
+				"_mh",
+				"sass\\modules\\_mainHeader.scss"
+			],
+			[
+				"fon",
+				"sass\\classes\\_fonts.scss"
+			],
+			[
+				"style",
+				"sass\\styles.scss"
+			],
+			[
+				"_",
+				"sass\\modules\\_mainHeader.scss"
+			],
+			[
+				"styles.cs",
+				"css\\styles.css"
+			],
+			[
+				"_mi",
+				"sass\\utils\\_mixins.scss"
+			],
+			[
+				"_main",
+				"sass\\modules\\_mainHeader.scss"
+			],
+			[
+				"_va",
+				"sass\\utils\\_variables.scss"
+			],
+			[
+				"_hea",
+				"sass\\modules\\_mainHeader.scss"
+			],
+			[
+				"style.c",
+				"css\\styles.css"
+			],
+			[
+				"styles.css",
+				"css\\styles.css"
+			],
+			[
+				"ty",
+				"css\\styles.css"
+			],
+			[
+				"n",
+				"css\\natif.css"
+			],
+			[
+				"scss",
+				"sass\\styles.scss"
+			],
+			[
+				"sin",
+				"singleGallery.html"
+			],
+			[
+				"mer",
+				"merci.html"
+			],
+			[
+				"g",
+				"galleries.html"
+			],
+			[
+				"a",
+				"about.html"
+			],
+			[
+				"si",
+				"singleGallery.html"
+			],
+			[
+				"gall",
+				"js\\galleries.json"
+			],
+			[
+				"mle",
+				"merci.html"
+			],
+			[
+				"menu",
+				"js\\menu.js"
+			],
+			[
+				"men",
+				"js\\menu.js"
+			],
+			[
+				"me",
+				"merci.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 831.731092437,
+		"last_filter": "r",
+		"selected_items":
+		[
+			[
+				"r",
+				"C:\\wamp64\\www\\akkcess\\CSS\\1_ResponsiveDesign\\responsive.sublime-project"
+			],
+			[
+				"cou",
+				"C:\\xampp\\htdocs\\cours-studi\\cours-studi.sublime-project"
+			],
+			[
+				"co",
+				"C:\\xampp\\htdocs\\cours-studi\\cours-studi.sublime-project"
+			],
+			[
+				"h",
+				"C:\\xampp\\htdocs\\cours-studi\\env\\1-html-css\\htmlCss.sublime-project"
+			],
+			[
+				"c",
+				"C:\\xampp\\htdocs\\cours-studi\\cours-studi.sublime-project"
+			],
+			[
+				"d",
+				"C:\\wamp64\\www\\akkcess\\PHP\\1_Decouverte_Exo\\decouverte.sublime-project"
+			],
+			[
+				"f",
+				"C:\\Users\\Utilisateur\\Desktop\\FichierBootstrap\\fichierbootstrapCSSJS.sublime-project"
+			],
+			[
+				"e",
+				"C:\\Users\\Utilisateur\\Desktop\\EtudeCss\\etudecss.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Utilisateur\\Desktop\\EtudeCss\\etudecss.sublime-project"
+			],
+			[
+				"ht",
+				"C:\\xampp\\htdocs\\cours-studi\\env\\3-html-css\\html5.sublime-workspace"
+			],
+			[
+				"cours-",
+				"C:\\xampp\\htdocs\\cours-studi\\cours-studi.sublime-project"
+			],
+			[
+				"C",
+				"C:\\xampp\\htdocs\\cours-studi\\cours-studi.sublime-project"
+			],
+			[
+				"cours-studi",
+				"C:\\xampp\\htdocs\\cours-studi\\cours-studi.sublime-project"
+			],
+			[
+				"re",
+				"C:\\wamp64\\www\\akkcess\\CSS\\1_ResponsiveDesign\\responsive.sublime-project"
+			],
+			[
+				"etu",
+				"C:\\Users\\Utilisateur\\Desktop\\EtudeCss\\etudecss.sublime-project"
+			],
+			[
+				"fich",
+				"C:\\Users\\Utilisateur\\Desktop\\FichierBootstrap\\fichierbootstrapCSSJS.sublime-project"
+			],
+			[
+				"fi",
+				"C:\\Users\\Utilisateur\\Desktop\\FichierBootstrap\\fichierbootstrapCSSJS.sublime-project"
+			],
+			[
+				"b",
+				"C:\\Users\\Utilisateur\\Desktop\\FichierBootstrap\\fichierbootstrapCSSJS.sublime-project"
+			],
+			[
+				"D",
+				"C:\\wamp64\\www\\akkcess\\PHP\\1_Decouverte_Exo\\decouverte.sublime-project"
+			],
+			[
+				"R",
+				"C:\\wamp64\\www\\akkcess\\CSS\\1_ResponsiveDesign\\responsive.sublime-project"
+			],
+			[
+				"S",
+				"C:\\wamp64\\www\\akkcess\\CSS\\1_ResponsiveDesign\\responsive.sublime-project"
+			],
+			[
+				"rd",
+				"C:\\wamp64\\www\\akkcess\\CSS\\1_ResponsiveDesign\\responsive.sublime-project"
+			],
+			[
+				"responsive",
+				"C:\\wamp64\\www\\akkcess\\CSS\\1_ResponsiveDesign\\responsive.sublime-project"
+			],
+			[
+				"site",
+				"C:\\Users\\Utilisateur\\Desktop\\FRONTEND\\SUBLIME\\1 - SebarteSublimeText\\site\\site.sublime-project"
+			],
+			[
+				"site2",
+				"C:\\Users\\Utilisateur\\Desktop\\FRONTEND\\SUBLIME\\1 - SebarteSublimeText\\site2\\site2.sublime-project"
+			],
+			[
+				"Me",
+				"C:\\Users\\Utilisateur\\Desktop\\OriginalPhotoshopHTML5\\Me.photoshopHTML5.sublime-workspace"
+			],
+			[
+				"me",
+				"C:\\Users\\Utilisateur\\Desktop\\NOIRETBLANC\\NOIRETBLANC.me3 - Partie Jscript\\Me3JS.sublime-project"
+			],
+			[
+				"j",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\4 - LinkedInNoirBlanc\\3-JsParts\\JScript.sublime-project"
+			],
+			[
+				"m",
+				"C:\\Users\\Utilisateur\\Desktop\\NOIRETBLANC\\NOIRETBLANC.me2 -  Partie CSS\\Me.CSSNB.sublime-project"
+			],
+			[
+				"n",
+				"C:\\Users\\Utilisateur\\Desktop\\NOIRETBLANC\\NOIRETBLANC2 -  Partie CSS\\NOIRBLANCcss.sublime-project"
+			],
+			[
+				"3",
+				"C:\\Users\\Utilisateur\\Desktop\\3 -MisEnPage(G1)Original\\3-MisEnPage(G1)Original.sublime-project"
+			],
+			[
+				"no",
+				"C:\\Users\\Utilisateur\\Desktop\\NOIRETBLANC\\NOIRETBLANC.sublime-project"
+			],
+			[
+				"n\t",
+				"C:\\Users\\Utilisateur\\Desktop\\NOIRETBLANC\\NOIRETBLANC.sublime-project"
+			],
+			[
+				"no\t",
+				"C:\\Users\\Utilisateur\\Desktop\\NOIRETBLANC\\NOIRETBLANC.sublime-project"
+			],
+			[
+				"roux_",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website\\roux_website.sublime-workspace"
+			],
+			[
+				"roux_website2",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website 2\\roux_website 2.sublime-workspace"
+			],
+			[
+				"rox",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website 2\\roux_website 2.sublime-workspace"
+			],
+			[
+				"rwete ",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website\\roux_website.sublime-workspace"
+			],
+			[
+				"r2",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website 2\\roux_website 2.sublime-workspace"
+			],
+			[
+				"roux_website",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website\\roux_website.sublime-workspace"
+			],
+			[
+				"site\t",
+				"C:\\Users\\Utilisateur\\Desktop\\Sublime_Text\\site\\site.sublime-workspace"
+			],
+			[
+				"roux_website 2",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website 2\\roux_website 2.sublime-workspace"
+			],
+			[
+				"rou",
+				"C:\\Users\\Utilisateur\\Desktop\\SUBLIME\\roux_website 2\\roux_website 2.sublime-project"
+			]
+		],
+		"width": 1538.42016807
+	},
+	"select_symbol":
+	{
+		"height": 108.100840336,
+		"last_filter": "c",
+		"selected_items":
+		[
+			[
+				"c",
+				"couleur-vert"
+			],
+			[
+				"a",
+				"add_five"
+			],
+			[
+				"",
+				"sayHi1"
+			],
+			[
+				"sa",
+				"sayHi"
+			],
+			[
+				"sum",
+				"sum"
+			],
+			[
+				"v",
+				"VoitureController"
+			],
+			[
+				"__co",
+				"__construct"
+			],
+			[
+				"b",
+				"ball-content"
+			],
+			[
+				"bc",
+				"ball-content"
+			],
+			[
+				"tea",
+				"team"
+			],
+			[
+				"te",
+				"team"
+			],
+			[
+				"g",
+				"gallery"
+			],
+			[
+				"na",
+				"nav"
+			],
+			[
+				"mh",
+				"mainHeader"
+			],
+			[
+				"bi",
+				"bi"
+			],
+			[
+				"mainf",
+				"mainFooter"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"s",
+				"special"
+			],
+			[
+				"f",
+				"foo"
+			],
+			[
+				" re",
+				"reseaux-sociaux"
+			],
+			[
+				"nf",
+				"mainFooter"
+			],
+			[
+				"mn",
+				"mainNav"
+			],
+			[
+				"nn",
+				"mainNav"
+			],
+			[
+				"m",
+				"mainNav"
+			],
+			[
+				"t",
+				"topHeader"
+			],
+			[
+				"mm",
+				"mainMenu"
+			],
+			[
+				"mc",
+				"mainContent"
+			],
+			[
+				"card",
+				"cards"
+			],
+			[
+				"mf",
+				"mainFooter"
+			],
+			[
+				"n",
+				"mainContent"
+			],
+			[
+				"bw",
+				"buttonWrapper"
+			],
+			[
+				"bu",
+				"buttonWrapper"
+			],
+			[
+				"foo",
+				"mainFooter"
+			],
+			[
+				"cont",
+				"contactForm"
+			],
+			[
+				"nc",
+				"mainContent"
+			],
+			[
+				"lead",
+				"lead"
+			],
+			[
+				"mainH",
+				"mainHeader"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"r",
+				"responsive"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"ma",
+				"mainNav"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"pp",
+				"playProgress"
+			],
+			[
+				"uv",
+				"updateVolume"
+			],
+			[
+				"ldh",
+				"loadedDataHandler"
+			],
+			[
+				"lst",
+				"loadStartHandler"
+			],
+			[
+				"ph",
+				"progressHandler"
+			],
+			[
+				"e",
+				"video"
+			],
+			[
+				"ael",
+				"loadStartHandler"
+			],
+			[
+				"dc",
+				"durationChangeHandler"
+			],
+			[
+				"add",
+				"addVideoInfo"
+			],
+			[
+				"logo",
+				"logoImg"
+			],
+			[
+				"lo",
+				"logoImg"
+			],
+			[
+				"main",
+				"mainHeader"
+			],
+			[
+				"vert",
+				"vert"
+			],
+			[
+				"hh",
+				"homeHeader"
+			]
+		],
+		"width": 591.932773109
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
