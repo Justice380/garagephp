@@ -20,7 +20,7 @@ class Car extends BaseModel
 
 	public function find(int $car_id): ?array
 	{
-		$stmt = $this->db->prepare("SELECT * FROM{$this->table} WHERE car_id = :id");
+		$stmt = $this->db->prepare("SELECT * FROM {$this->table} WHERE car_id = :id");
 		$stmt->execute([':id'=> $car_id]);
 		$data = $stmt->fetch(PDO::FETCH_ASSOC);
 		return $data ?: null;
